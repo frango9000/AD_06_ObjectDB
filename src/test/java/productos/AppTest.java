@@ -1,4 +1,4 @@
-package org.example;
+package productos;
 
 import static org.junit.Assert.assertTrue;
 

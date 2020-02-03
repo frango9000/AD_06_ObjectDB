@@ -13,7 +13,7 @@ public class Main {
         // Open a database connection
         // (create a new database if it doesn't exist yet):
         EntityManagerFactory emf =
-            Persistence.createEntityManagerFactory("$objectdb/db/points.odb");
+            Persistence.createEntityManagerFactory("src/main/java/point/points.odb");
         EntityManager em = emf.createEntityManager();
 
         // Store 1000 Point objects in the database:

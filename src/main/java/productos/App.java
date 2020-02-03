@@ -1,4 +1,4 @@
-package org.example;
+package productos;
 
 /**
  * Hello world!
